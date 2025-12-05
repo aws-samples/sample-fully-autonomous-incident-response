@@ -57,4 +57,4 @@ AgentCore simplifies A2A agent deployment by handling infrastructure, authentica
 └────────────────────────┘                   └─────────────────────────┘
 ```
 
-Open :[Detailed instructions](https://github.com/aws-samples/sample-fully-autonomous-incident-response/tree/main/A2A-Multi-Agents-AgentCore-main) for detailed guide on implementation
+Open :[Detailed instructions](https://github.com/aws-samples/sample-fully-autonomous-incident-response/tree/main/A2A-Multi-Agents-AgentCore-main) for detailed guide on implementation.
