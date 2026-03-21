@@ -8,7 +8,6 @@ boto3>=1.34.0
 python-dotenv>=1.0.0
 
 # Additional utilities for better app functionality
-asyncio-compat>=0.2.0  # For async compatibility in Streamlit
 pandas>=2.0.0          # For data handling if needed
 plotly>=5.15.0         # For interactive charts if needed
 
