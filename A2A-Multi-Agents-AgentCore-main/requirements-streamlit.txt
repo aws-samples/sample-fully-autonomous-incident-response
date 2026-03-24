@@ -14,4 +14,4 @@ plotly>=5.15.0         # For interactive charts if needed
 
 # Development and testing
 pytest>=7.4.0
-pytest-asyncio>=0.21.0
+# pytest-asyncio>=0.21.0
